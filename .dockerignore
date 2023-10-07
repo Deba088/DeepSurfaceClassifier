@@ -2,3 +2,4 @@
 ./train_1000
 ./notebook
 ./test_videos
+./model_weights
