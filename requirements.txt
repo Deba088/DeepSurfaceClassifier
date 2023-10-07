@@ -1,0 +1,7 @@
+tensorflow==2.13.*
+keras
+scikit-learn
+numpy
+opencv-python
+logger
+pandas
